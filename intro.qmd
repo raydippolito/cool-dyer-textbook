@@ -7,3 +7,7 @@ See @knuth84 for additional discussion of literate programming.
 ```{r}
 1 + 1
 ```
+
+
+
+@JohnsonWichern1992 - classic multivariate stats book

@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "cool-dyer-textbook"
@@ -16,6 +17,8 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
+    execute:
+      echo: true
   pdf:
     documentclass: scrreprt
 
